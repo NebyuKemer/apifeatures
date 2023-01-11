@@ -1,0 +1,21 @@
+{
+  "name": "api_features",
+  "version": "1.0.0",
+  "description": "This library is used for filtering, sorting, selecting and paginating large amounts of data that are coming from the DB. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Features",
+    "Filter",
+    "Sort",
+    "Select",
+    "Paginate",
+    "Skip",
+    "Limit"
+  ],
+  "author": "Nebyu Samuel",
+  "license": "ISC"
+}
